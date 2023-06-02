@@ -1,0 +1,1 @@
+Exercícios de estrutura condicional (if-else) e uso da estrutura (switch-case).
